@@ -12,7 +12,7 @@
 
 📫 How to reach me: emilabuczek10@gmail.com
 
-✉️ Connect with me on LinkedIn : https://www.linkedin.com/in/emilia-buczek-qa-secialist/
+✉️ Connect with me on LinkedIn : https://www.linkedin.com/in/emilia-buczek/
 
 🛠 Languages and Tools :
 
