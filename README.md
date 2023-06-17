@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on the website for ,,Sterczące Uszy'' https://www.sterczaceuszy.pl/
 
-🌱 I’m learning: Next.js, React/Typescript and Angular
+🌱 I’m learning: Next.js, React/Typescript, Angular and Ruby on Rails 
 
 😍 I love coffee, long walks and 💙 coding 💙
 
